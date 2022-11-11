@@ -24,8 +24,6 @@ SITEMAP: The sitemap starts at the main page - the homepage, before linking to i
 
 SCREENSHOTS: (see Screenshots pictures of site)
 
-TARGET AUDIENCE: The target audience for this portfolio website is ultimately any potential future employers. However, this project was designed as a beginner's
-porfolio website in mind, and as such will need to be updated and modified extensively to suit a professional employee. However, from an assessment point of view,
-it suffices.
+TARGET AUDIENCE: The target audience for this portfolio website is ultimately any potential future employers. However, this project was designed as a beginner's porfolio website in mind, and as such will need to be updated and modified extensively to suit professional standards.
 
 TECH STACK: I utilised HTML & CSS only throughout the building process of this portfolio website, before deploying to Netlify. My future professional porfolio website will include a far wider variety of tools including javascript and more extensive html & css practices.
