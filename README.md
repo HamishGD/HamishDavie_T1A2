@@ -17,7 +17,7 @@ PURPOSE: It's purpose is to demonstrate the skills I've learnt so far in this We
 be able to create a strong portfolio website to show future employers.
 
 FUNCTIONALITY & FEATURES: It has full functionality and it's features include four differnet pages (home, about, work & blogs) with text, images and 
-color design suited to a beginner portfolio website submission. I also ensured text when displayed on desktop was nice & big; particularly helpful for those who need visual assistance. 
+color design suited to a beginner portfolio website submission. I also everything is super responsive, adpating to any screen size and everything nice & big - especially on tablet & desktop, particularly helpful for those who need visual assistance. 
 
 SITEMAP: The sitemap starts at the main page - the homepage, before linking to it's three subsquent (lower) pages - about, work & blogs.
 (see Sitemap picture for short demostration)
