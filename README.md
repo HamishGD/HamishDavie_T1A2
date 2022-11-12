@@ -13,17 +13,39 @@ Link to Youtube Presentation Video:
 Description of Portfolio Website:
 This website was designed in mind to be simple & easy to use, with clear responsiveness on screen sizes from mobile - tablet - desktop.
 
-PURPOSE: It's purpose is to demonstrate the skills I've learnt so far in this Web Development Bootcamp and to be a 'jumping off point' for me to 
+**PURPOSE:** It's purpose is to demonstrate the skills I've learnt so far in this Web Development Bootcamp and to be a 'jumping off point' for me to 
 be able to create a strong portfolio website to show future employers.
 
-FUNCTIONALITY & FEATURES: It has full functionality and it's features include four differnet pages (home, about, work & blogs) with text, images and 
+**FUNCTIONALITY & FEATURES:** It has full functionality and it's features include four differnet pages (home, about, work & blogs) with text, images and 
 color design suited to a beginner portfolio website submission. I also everything is super responsive, adpating to any screen size and everything nice & big - especially on tablet & desktop, particularly helpful for those who need visual assistance. 
 
-SITEMAP: The sitemap starts at the main page - the homepage, before linking to it's three subsquent (lower) pages - about, work & blogs.
+**SITEMAP:** The sitemap starts at the main page - the homepage, before linking to it's three subsquent (lower) pages - about, work & blogs.
 (see Sitemap picture for short demostration)
 
-SCREENSHOTS: (see Screenshots pictures of site)
+**SCREENSHOTS:** (see Screenshots pictures of site)
 
-TARGET AUDIENCE: The target audience for this portfolio website is ultimately any potential future employers. However, this project was designed as a beginner's porfolio website in mind, and as such will need to be updated and modified extensively to suit professional standards.
+**TARGET AUDIENCE:** The target audience for this portfolio website has been broken into two parts. Whilst this is a site that could be presented to employers (although a lot of extra work would be needed), there is a STRONG focus with this website on the visually impaired. This is the reason for the clear responsive nature of the website, with it's big text, pictures and emphasis on bright colors. Bright colors such as orange, pink and white (on a dark background) are some of the best colors for people with visual impairments to see (Duffy, 2021). This is the main reason I have created this to be designed as such (On a personal note: I have an family member who is old and visually impaired and I wanted to create something that I could show them that they would enjoy).
 
-TECH STACK: I utilised HTML & CSS only throughout the building process of this portfolio website, before deploying to Netlify. My future professional porfolio website will include a far wider variety of tools including javascript and more extensive html & css practices.
+This project however was predominately designed as a beginner portfolio project and as such will need to be updated and modified extensively to suit professional standards.
+
+**TECH STACK:** I utilised HTML & CSS only throughout the building process of this portfolio website, before deploying to Netlify. My future professional porfolio website will include a far wider variety of tools including javascript and more extensive html & css practices.
+
+
+
+
+
+
+_References:_
+
+Duffy, M (2021). Contrast and Colour. Retrieved November 12, 2022, from https://visionaware.org/everyday-living/home-modification/contrast-and-color/#:~:text=Bright%20colors%20are%20generally%20the,usually%20more%20visible%20than%20pastels.
+
+Unsplash (2018). [Image]. Victoria Health. Retrieved November 12, 2022, from https://unsplash.com/photos/MAGAXAYq_NE
+
+Unsplash (2017). [Image]. Sebastian Leon Prado. Retrieved November 12, 2022, from https://unsplash.com/photos/dBiIcdxMWfE
+
+Unsplash (2020). [Image]. Saundarya Srinivasan. Retrieved November 12, 2022, from https://unsplash.com/photos/60nzTP7_hMQ
+
+Unsplash (2020). [Image]. Mika Baumeister. Retrieved November 12, 2022, from https://unsplash.com/photos/HUyICL8qbEE
+
+Unsplash (2020). [Image]. Patrick Perkins. Retrieved November 12, 2022, from https://unsplash.com/photos/Pg44v2M2S6k
+
