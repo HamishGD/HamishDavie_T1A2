@@ -1,14 +1,12 @@
 # HamishDavie_T1A2
-Project Folder for all Assessment Tasks
+Project Folder for all General Project Documentation.
+
 
 Portfolio URL Link:
--
 
 Github Repo Link: https://github.com/HamishGD/HamishDavie_T1A2
--
 
-Link to Youtube Presentation Video:
--
+Link to Slide Deck Presentation:
 
 Description of Portfolio Website:
 This website was designed in mind to be simple & easy to use, with clear responsiveness on screen sizes from mobile - tablet - desktop.
