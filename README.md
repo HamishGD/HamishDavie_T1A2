@@ -39,6 +39,8 @@ _References:_
 
 Duffy, M (2021). Contrast and Colour. Retrieved November 12, 2022, from https://visionaware.org/everyday-living/home-modification/contrast-and-color/#:~:text=Bright%20colors%20are%20generally%20the,usually%20more%20visible%20than%20pastels.
 
+So Vegan (2022). [Image]. Get To Know The New So Vegan App. Retrieved November 12, 2022, from https://www.wearesovegan.com/get-to-know-the-new-so-vegan-app/
+
 Unsplash (2018). [Image]. Victoria Health. Retrieved November 12, 2022, from https://unsplash.com/photos/MAGAXAYq_NE
 
 Unsplash (2017). [Image]. Sebastian Leon Prado. Retrieved November 12, 2022, from https://unsplash.com/photos/dBiIcdxMWfE
