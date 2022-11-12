@@ -2,11 +2,11 @@
 Project Folder for all General Project Documentation.
 
 
-Portfolio URL Link: https://hamishdavieporfolio.netlify.app/index.html
+Portfolio URL Link: https://hamishdavieportfolio.netlify.app/
 
 Github Repo Link: https://github.com/HamishGD/HamishDavie_T1A2
 
-Link to Slide Deck Presentation:
+Link to Slide Deck Presentation: 
 
 Description of Portfolio Website:
 This website was designed in mind to be simple & easy to use, with clear responsiveness on screen sizes from mobile - tablet - desktop.
