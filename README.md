@@ -6,7 +6,7 @@ Portfolio URL Link: https://hamishdavieportfolio.netlify.app/
 
 Github Repo Link: https://github.com/HamishGD/HamishDavie_T1A2
 
-Link to Slide Deck Presentation: 
+Link to Slide Deck Presentation: https://www.youtube.com/watch?v=L_Wb0IHl6eI
 _The slide deck presentation has 1 to 2 parts with excessively long narrative pauses (10+ seconds). I could not get rid of them, apologies. You're welcome to skip a couple of seconds ahead though._
 
 Description of Portfolio Website:
