@@ -7,6 +7,7 @@ Portfolio URL Link: https://hamishdavieportfolio.netlify.app/
 Github Repo Link: https://github.com/HamishGD/HamishDavie_T1A2
 
 Link to Slide Deck Presentation: 
+_The slide deck presentation has 1 to 2 parts with excessively long narrative pauses (10+ seconds). I could not get rid of them, apologies. You're welcome to skip a couple of seconds ahead though._
 
 Description of Portfolio Website:
 This website was designed in mind to be simple & easy to use, with clear responsiveness on screen sizes from mobile - tablet - desktop.
@@ -20,7 +21,7 @@ color design suited to a beginner portfolio website submission. I also everythin
 **SITEMAP:** The sitemap starts at the main page - the homepage, before linking to it's three subsquent (lower) pages - about, work & blogs.
 (see Sitemap picture for short demostration)
 
-**SCREENSHOTS:** (included in IMG folder)
+**SCREENSHOTS:** (included in Docs folder)
 
 **TARGET AUDIENCE:** The target audience for this portfolio website has been broken into two parts. The first - it is a sample portfolio which could potentially be shown towards potential employers (although a lot more work would be needed). The second, I wanted this website to be a STRONG focus for the visually impaired. This is the reason for the clear responsive nature of the website, with it's big text, pictures and emphasis on bright colors. Bright colors such as orange, pink and white (on a dark background) are some of the best colors for people with visual impairments (Duffy, 2021). This is the main reason I have designed the portfolio this way (on a personal note; I have an family member who is old and visually impaired and I wanted to create something that I could show them that they would enjoy).
 
